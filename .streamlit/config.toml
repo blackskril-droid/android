@@ -1,0 +1,9 @@
+# 라이트/다크를 각각 정의해 사용자 시스템 설정을 따라가게 한다. 포인트 컬러는 초록 하나.
+[theme.light]
+primaryColor = "#2E9E5B"
+
+[theme.dark]
+primaryColor = "#3DBE74"
+
+[browser]
+gatherUsageStats = false
